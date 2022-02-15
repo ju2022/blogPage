@@ -1,0 +1,32 @@
+* {
+    font-family: 'Aref Ruqaa', serif;
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+.policeTitre{
+    font-family: 'Meddon', serif;
+    color: rgb(59, 26, 95);
+}
+#navbarNav{
+    text-align: center;
+}
+#alignArticle{
+    text-align:start;
+    padding: 30px;
+}
+.btn{
+    background-color: rgb(59, 26, 95);
+}
+.turquoise{
+    color: rgb(59, 26, 95);
+}
+.page-link{
+    color: rgb(59, 26, 95);
+}
+.list-inline-item{
+    color: rgb(59, 26, 95);
+}
+.modal-title{
+    color:rgb(59, 26, 95);;
+}
